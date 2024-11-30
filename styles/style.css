@@ -65,7 +65,7 @@
   gap: 126px;
   padding: 165px 50px 50px;
   color: #fff;
-  background-image: url(/images/cover.jpg);
+  background-image: url(../images/cover.jpg);
   background-position: center;
   background-size: cover;
 }
@@ -176,19 +176,19 @@
 }
 
 .card_type_film {
-  background-image: url(/images/card-lot-01.jpg);
+  background-image: url(../images/card-lot-01.jpg);
   background-position: center;
   background-size: cover;
 }
 
 .card_type_book {
-  background: url(/images/card-lot-02.jpg);
+  background: url(../images/card-lot-02.jpg);
   background-position: center;
   background-size: cover;
 }
 
 .card_type_picture {
-  background: url(/images/card-lot-03.jpg);
+  background: url(../images/card-lot-03.jpg);
   background-position: center;
   background-size: cover;
 }
@@ -261,10 +261,6 @@
 .about__text {
   font-size: 20px;
   line-height: 120%;
-}
-
-.about__text-start {
-  word-spacing: 1px;
 }
 
 .footer {
