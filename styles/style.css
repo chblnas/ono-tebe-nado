@@ -54,7 +54,6 @@
   text-decoration: underline;
   text-decoration-thickness: 1px;
   text-underline-position: under;
-  letter-spacing: 1%;
 }
 
 .cover {
@@ -207,6 +206,10 @@
   font-size: 20px;
   line-height: 120%;
   text-decoration: none;
+}
+
+.card__text-letter-spacing {
+  letter-spacing: .13em;
 }
 
 .lots__look-more-link {
