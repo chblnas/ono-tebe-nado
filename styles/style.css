@@ -56,11 +56,11 @@
   text-underline-position: under;
 }
 
-.address_no-wrap {
+.no-wrap {
   white-space: nowrap;
 }
 
-.address_pre-line {
+.pre-line {
   white-space: pre-line;
 }
 
